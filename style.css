@@ -30,11 +30,11 @@
   margin: 0 auto 0;
 }
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-line {
-  list-style:none;
+  list-style: none;
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
@@ -47,7 +47,7 @@ ul {
   border: 0;
 }
 .task-type {
-  list-style:none;
+  list-style: none;
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -57,7 +57,7 @@ ul {
   text-transform: uppercase;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 .task-line__button {
   background: none;
@@ -130,11 +130,11 @@ li > * {
 
 /* Edit Task */
 .task-line__textinput {
-  display:none
+  display: none
 }
 
 .edit-mode .task-line__textinput {
-  display:inline-block;
+  display: inline-block;
 }
 
 .new-task .task-line__textinput {
@@ -142,5 +142,5 @@ li > * {
 }
 
 .edit-mode .task-line__label {
-  display:none;
+  display: none;
 }
