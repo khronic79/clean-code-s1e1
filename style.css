@@ -106,7 +106,7 @@ li > * {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-line__button_delete:hover {
@@ -130,7 +130,7 @@ li > * {
 
 /* Edit Task */
 .task-line__textinput {
-  display: none
+  display: none;
 }
 
 .edit-mode .task-line__textinput {
