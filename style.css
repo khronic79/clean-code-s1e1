@@ -56,7 +56,8 @@ ul {
   margin: 0;
   text-transform: uppercase;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 .task-line__button {
